@@ -316,6 +316,23 @@ A: The main features (static workflow analysis and vulnerability mapping) are ru
 ## Code Of Conduct 📜
 [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
+# Octopi Watcher Project
+
+Octopi Watcher Project is a modified and extended version of SplxAI Agentic-Radar, originally licensed under Apache 2.0.
+
+We’ve enhanced the original scanner to include:
+- Agentic AI workflow security monitoring
+- Native integrations with Hedera network (HBAR)
+- Dynamic scanning and tagging of n8n-based workflows
+- Compatibility with Octopi AI's secure agentic builder platform
+
+## License
+
+This project contains code licensed under the Apache License, Version 2.0.
+Modifications by Octopi AI are also licensed under Apache 2.0.
+
+See the `LICENSE` and `NOTICE` files for more information.
+
 ## License ⚖️
 
 [LICENSE](LICENSE)
